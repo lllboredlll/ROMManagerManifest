@@ -940,14 +940,16 @@
         }
     },
     {
-        developer: "IncROM",
+        developer: "lllboredlll",
         id: "lllboredlll",
-        summary: "Making your Incredible, INCREDIBLE!!!",
+        summary: "Custom ROM's for you Incredible & ThunderBolt",
+        icon: "http://www.htc-tweaker.com/IncROM/rm_icon.gif"
         manifest: "http://htc-tweaker.com/IncROM/IncROM.js",
         free: true,
         roms:
         {
              inc: true
+             mecha: true
         }
     },
     {
