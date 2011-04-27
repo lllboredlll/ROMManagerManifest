@@ -943,7 +943,7 @@
         developer: "lllboredlll",
         id: "lllboredlll",
         summary: "Custom ROM's for you Incredible & ThunderBolt",
-        icon: "http://www.htc-tweaker.com/IncROM/rm_icon.gif"
+        icon: "http://www.htc-tweaker.com/IncROM/rm_icon.gif",
         manifest: "http://htc-tweaker.com/IncROM/IncROM.js",
         free: true,
         roms:
